@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TVSeriesMVP</string>
+    <string name="text_no_shows">There is no TV shows with this name, try something else</string>
+    <string name="text_no_found">Could not find what was requested</string>
+    <string name="error_loading_shows">Oops, something went wrong</string>
+
+    <string name="hint_series_name">TV Series name</string>
+    <string name="default_info_message">Enter a TV series name above to see its information</string>
+</resources>
